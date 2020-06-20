@@ -3,7 +3,7 @@ mvn spring-boot:run<br/>
 <br/>
 compile into fat jar then execute :<br/>
 mvn clean package<br/>
-java -jar target/simpleSetupConnectionH2-0.0.1-SNAPSHOT.jar<br/>
+java -jar target/connectionToANewPersistentDatabase-0.0.1-SNAPSHOT.jar<br/>
 <br/>
 
 During the first execution, the console shows : <br/>
